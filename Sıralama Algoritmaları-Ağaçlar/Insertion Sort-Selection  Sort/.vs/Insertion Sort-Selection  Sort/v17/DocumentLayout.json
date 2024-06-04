@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\Trie\u00D6rnekc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|solutionrelative:Trie\u00D6rnekc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\2.soru.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|solutionrelative:2.soru.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\S\u0131ralamaAlgoritmalar\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070099E-BC6E-4F6E-B9DF-7EF60223337E}|Insertion Sort-Selection  Sort.vcxproj|solutionrelative:S\u0131ralamaAlgoritmalar\u0131.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trie\u00D6rnekc.cpp",
+              "DocumentMoniker": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\Trie\u00D6rnekc.cpp",
+              "RelativeDocumentMoniker": "Trie\u00D6rnekc.cpp",
+              "ToolTip": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\Trie\u00D6rnekc.cpp",
+              "RelativeToolTip": "Trie\u00D6rnekc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T20:07:17.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.soru.c",
+              "DocumentMoniker": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\2.soru.c",
+              "RelativeDocumentMoniker": "2.soru.c",
+              "ToolTip": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\2.soru.c",
+              "RelativeToolTip": "2.soru.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T20:04:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "S\u0131ralamaAlgoritmalar\u0131.c",
+              "DocumentMoniker": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\S\u0131ralamaAlgoritmalar\u0131.c",
+              "RelativeDocumentMoniker": "S\u0131ralamaAlgoritmalar\u0131.c",
+              "ToolTip": "C:\\Users\\Eren\\OneDrive\\Masa\u00FCst\u00FC\\S\u0131ralama Algoritmalar\u0131-A\u011Fa\u00E7lar\\Insertion Sort-Selection  Sort\\S\u0131ralamaAlgoritmalar\u0131.c",
+              "RelativeToolTip": "S\u0131ralamaAlgoritmalar\u0131.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T16:31:19.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
